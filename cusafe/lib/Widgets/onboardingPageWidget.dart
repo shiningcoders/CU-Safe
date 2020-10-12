@@ -1,4 +1,3 @@
-import 'package:cusafe/Theme/colorTheme.dart';
 import 'package:dough/dough.dart';
 import 'package:flutter/material.dart';
 
@@ -7,14 +6,16 @@ class OnboardingPageWidget extends StatelessWidget {
     @required this.title,
     @required this.image,
     @required this.content,
+    @required this.bgColor,
   });
+  Color bgColor;
   String title;
   String image;
   String content;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: ThemeColors.white,
+      backgroundColor: bgColor,
       body: Column(
         children: [
           Expanded(
