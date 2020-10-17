@@ -1,6 +1,6 @@
-# cusafe
+# CU Safe
 
-A new Flutter project.
+App for making CU Campus safer for all students from the COVID-19.
 
 ## Getting Started
 
