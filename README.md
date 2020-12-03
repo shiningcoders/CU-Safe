@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">App for making CU Safer in pandemic, built in <a href="http://www.flutter.dev" target="_blank">Flutter</a>.</h4>
+<h4 align="center">App for making CU Safer in pandemic, made with <a href="http://www.flutter.dev" target="_blank">Flutter 🎯</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
