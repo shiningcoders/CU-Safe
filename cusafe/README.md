@@ -1,3 +1,3 @@
 # CU Safe
 
-App for making CU Campus safer for all students from the COVID-19.
+App for making CU Campus safer for all from the global pandemic COVID-19.
