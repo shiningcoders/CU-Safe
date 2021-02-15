@@ -8,6 +8,7 @@ class OnboardingPageWidget extends StatelessWidget {
     @required this.content,
     @required this.bgColor,
   });
+
   Color bgColor;
   String title;
   String image;
