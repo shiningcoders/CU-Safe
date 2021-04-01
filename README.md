@@ -1,5 +1,5 @@
 # CU-Safe
-Let's make Chandigarh University campus safe and secure.
+Let's make Chandigarh University campus safe.
 
 ### The Problem
 In the current senerio we have to show our ID cards to the gaurds on the main gate and at library. And for that we have to get in the close contact of them. This is against the guidelines for resisting the spread of corona virus.
